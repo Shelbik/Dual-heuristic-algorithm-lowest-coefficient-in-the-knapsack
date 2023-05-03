@@ -1,0 +1,2 @@
+1 - zistit celkovu vahu a celkovu cenu batoha
+2 - zapisat
